@@ -1,6 +1,6 @@
 numpy==1.17.3
 pandas==0.25.2
-bottle==0.12.17
+bottle==0.12.19
 python-dotenv==0.10.3
 scikit-learn==0.22
 pymongo==3.9.0
