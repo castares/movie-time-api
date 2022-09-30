@@ -4,6 +4,6 @@ bottle==0.12.20
 python-dotenv==0.10.3
 scikit-learn==0.22
 pymongo==3.9.0
-joblib==0.14.0
+joblib==1.2.0
 json5==0.8.5
 dnspython==1.16.0
